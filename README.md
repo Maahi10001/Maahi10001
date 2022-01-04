@@ -39,7 +39,7 @@
 ---
 <details>
 
-  ![Mahender's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maahi_10001&hide=contribs,prs)
+  ![Mahender's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maahi10001&hide=contribs,prs)
 
 </details>
 
