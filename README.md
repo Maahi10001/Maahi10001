@@ -13,8 +13,9 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://user-images.githubusercontent.com/80961448/159343286-d8892727-14cc-4b88-ab75-7c64c6c79442.gif" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/80961448/159343586-679d79a3-07ac-4a44-b54e-49a7f65bd84d.png" />][linkedin]
+" alt="codeSTACKr | Instagram" width="22px" src="https://user-images.githubusercontent.com/80961448/159343749-0959e1d0-c127-46b2-9ad6-2a08e7d08268.png" />][instagram]
+
 
 <br />
 
