@@ -1,14 +1,5 @@
 ### Hi there, I'm Maahi - aka  [Mahender]👋 
 
-<table>
-  <tr>
-      <td><a href="https://github.com/Maahi_10001"><img src="https://img.shields.io/github/followers/Maahi_10001.svg?label=GitHub&style=social" alt="GitHub"></a></td>
-    <td><a href="https://twitter.com/Maahi_10001"><img src="https://img.shields.io/twitter/follow/Maahi_10001?label=Twitter&style=social" alt="Twitter"></a></td>
-    <td><a href="https://www.linkedin.com/in/thanda-mahender-goud-77931b214/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
-    <td><a href="mailto:thandamahendergoud1@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a></td>
-    <td><a href="https://medium.com/@thandamahendergoud1"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a></td>
-  </tr>
-</table>
 ## I'm a Student, Learner, Developer, and Teacher!!
 
 - 🌱 I’m currently learning everything 🤣
@@ -17,6 +8,15 @@
 - ⚡ Fun fact: I love to draw and play games
 
 ### Connect with me:
+<table>
+  <tr>
+      <td><a href="https://github.com/Maahi10001"><img src="https://img.shields.io/github/followers/Maahi_10001.svg?label=GitHub&style=social" alt="GitHub"></a></td>
+    <td><a href="https://twitter.com/Maahi_10001"><img src="https://img.shields.io/twitter/follow/Maahi_10001?label=Twitter&style=social" alt="Twitter"></a></td>
+    <td><a href="https://www.linkedin.com/in/thanda-mahender-goud-77931b214/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
+    <td><a href="mailto:thandamahendergoud1@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a></td>
+    <td><a href="https://medium.com/@thandamahendergoud1"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a></td>
+  </tr>
+</table>
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://user-images.githubusercontent.com/80961448/159343286-d8892727-14cc-4b88-ab75-7c64c6c79442.gif" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/80961448/159343586-679d79a3-07ac-4a44-b54e-49a7f65bd84d.png" />][linkedin]
