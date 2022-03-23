@@ -15,13 +15,11 @@
     <td><a href="https://www.linkedin.com/in/thanda-mahender-goud-77931b214/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
     <td><a href="mailto:thandamahendergoud1@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a></td>
     <td><a href="https://medium.com/@thandamahendergoud1"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a></td>
+    <td><a href="https://www.instagram.com/maahi_10001/"><img src="https://user-images.githubusercontent.com/80961448/159343749-0959e1d0-c127-46b2-9ad6-2a08e7d08268.png" alt="Instagram"></a></td>
   </tr>
 </table>
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://user-images.githubusercontent.com/80961448/159343286-d8892727-14cc-4b88-ab75-7c64c6c79442.gif" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/80961448/159343586-679d79a3-07ac-4a44-b54e-49a7f65bd84d.png" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://user-images.githubusercontent.com/80961448/159343749-0959e1d0-c127-46b2-9ad6-2a08e7d08268.png" />][instagram]
-<br />
+
 
 ### Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/80961448/159344305-af7df37a-9b31-4ee2-9280-5ba457fd5a61.gif" /> 
@@ -50,7 +48,3 @@
   ![Mahender's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maahi10001&hide=contribs,prs)
 
 </details>
-
-[twitter]: https://twitter.com/Maahi_10001
-[instagram]: https://instagram.com/Maahi_10001
-[linkedin]: https://www.linkedin.com/in/t-mahender-goud-77931b214/
