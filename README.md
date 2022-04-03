@@ -43,7 +43,7 @@
 <br />
 
 ---
-<details>
+<details><h6>Click here for My Git Stats
 
   ![Mahender's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maahi10001&hide=contribs,prs)
 
