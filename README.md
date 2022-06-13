@@ -22,10 +22,10 @@
 ### Languages and Tools:
 <img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/80961448/159345040-2945f183-7705-4d1f-b2c3-61935f52f4d6.png" /> 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
-<img align="left" alt="python" width="26px" src="https://user-images.githubusercontent.com/80961448/173418053-82046fc7-42c3-4598-9372-5c9be1d011fa.png
-" /> 
-<img align="left" alt="java" width="26px" src="https://user-images.githubusercontent.com/80961448/173408567-244aedac-2639-4dcd-ab66-267ac9a72224.png
-" /> 
+<img align="left" alt="python" width="26px" src="![icons8-python](https://user-images.githubusercontent.com/80961448/173420247-a04827aa-9c96-48a8-b55f-fdf77c46b560.gif)" /> 
+<img align="left" alt="java" width="26px" src="
+![icons8-java](https://user-images.githubusercontent.com/80961448/173420305-96812ddf-3f8a-4132-b298-253c6dace33e.gif)" /> 
+
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
