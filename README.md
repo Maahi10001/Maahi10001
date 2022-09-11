@@ -40,9 +40,4 @@
 <br />
 
 ---
-<b>Click here for My Git Stats</b>
-<details>
-
-  ![Mahender's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maahi10001&hide=contribs,prs)
-
-</details>
+![Repository Stats](https://github-readme-stats.vercel.app/api?username=Maahi10001&show_icons=true)
