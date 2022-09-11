@@ -4,10 +4,10 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with others.
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play games
+- 🥅 Contributing to Open Source projects
+- ⚡ DSA,(web,Application,software)developer 
 
-### Connect with me:
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/thanda-mahender-goud-77931b214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thanda-mahender-goud-77931b214" height="30" width="40" /></a>
