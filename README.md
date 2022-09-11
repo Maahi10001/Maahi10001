@@ -8,14 +8,12 @@
 - ⚡ Fun fact: I love to draw and play games
 
 ### Connect with me:
-<table>
-  <tr>
-     <td><a href="https://github.com/Maahi10001"><img src="https://img.shields.io/github/followers/Maahi10001.svg?label=GitHub&style=social" alt="GitHub"></a></td>
-    <td><a href="https://twitter.com/Maahi_10001"><img src="https://img.shields.io/twitter/follow/Maahi_10001?label=Twitter&style=social" alt="Twitter"></a></td>
-    <td><a href="https://www.linkedin.com/in/thanda-mahender-goud-77931b214/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
-    <td><a href="https://www.instagram.com/maahi_10001/"><img src="https://user-images.githubusercontent.com/80961448/159343749-0959e1d0-c127-46b2-9ad6-2a08e7d08268.png" alt="Instagram"></a></td>
-  </tr>
-</table>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/thanda-mahender-goud-77931b214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thanda-mahender-goud-77931b214" height="30" width="40" /></a>
+<a href="https://www.instagram.com/maahi_10001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maahi_10001" height="30" width="40" /></a>
+<a href="https://leetcode.com/maahi_10001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maahi_10001" height="30" width="40" /></a>
+</p>
 
 
 
