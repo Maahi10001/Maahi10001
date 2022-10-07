@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maahi10001&label=Profile%20views&color=0e75b6&style=flat" alt="maahi10001" /> </p>
 
 
-- 🌱 **I’m Currently Learning Everything 🤣.**
+- 🌱 **I’m Currently Working on Typescript and Angular JS.**
 
 - 👯 **I’m 👀 to collaborate on Open-Source Contributions.**
 
