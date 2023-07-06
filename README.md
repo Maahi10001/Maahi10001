@@ -2,7 +2,7 @@
 <h1 align="center">
 <img align="center" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=30&center=true&vCenter=true&width=600&height=70&lines=Hello+World...+👋,+This+is+Mahender;(+Maahi....!+);An+Open+Source+Contributor+☀;Programmer+💻;Developer+📱;Problem+Solver+🕵;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=30&center=true&vCenter=true&width=600&height=70&lines=Hello-World...+👋,+This+is+Mahender;(+Maahi....!+);An+Open+Source+Contributor+☀;Programmer+💻;Developer+📱;Problem+Solver+🕵;">
 </p>
 </h1>
 <h2 align="center">I'm a Student, Learner, Developer and Teacher!!</h2>
@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maahi10001&label=Profile%20views&color=0e75b6&style=flat" alt="maahi10001" /> </p>
 
 
-- 🌱 **I’m Currently Working on Typescript and Angular JS.**
+- 🌱 **I’m Currently Working on Spring Boot.**
 
 - 👯 **I’m 👀 to collaborate on Open-Source Contributions.**
 
