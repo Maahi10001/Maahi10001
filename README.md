@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maahi10001&label=Profile%20views&color=0e75b6&style=flat" alt="maahi10001" /> </p>
 
-- 🚀 Passionate Software Engineer| **Turning Ideas into Reality** | Embracing the Art of Code
+- 🚀 **Passionate Software Engineer| Turning Ideas into Reality | Embracing the Art of Code.**
 
 - 🌱 **I’m Currently Working on Spring Boot.**
 
