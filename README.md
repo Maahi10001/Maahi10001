@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=30&center=true&vCenter=true&width=600&height=70&lines=Hello-World...+👋,+This+is+Mahender;(+Maahi....!+);An+Open+Source+Contributor+☀;Programmer+💻;Developer+📱;Problem+Solver+🕵;">
 </p>
 </h1>
-<h2 align="center">I'm a Student, Learner, Developer and Teacher!!</h2>
+<h2 align="center">I'm a Full Stack Developer!!</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maahi10001&label=Profile%20views&color=0e75b6&style=flat" alt="maahi10001" /> </p>
 
